@@ -1,0 +1,6 @@
+
+
+***** Don't create virtual environment in python in 2025 - by Chai aur Code
+https://www.youtube.com/watch?v=8mk85fyzevc
+
+* 
