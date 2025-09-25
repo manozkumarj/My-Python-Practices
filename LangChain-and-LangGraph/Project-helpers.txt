@@ -1,0 +1,2 @@
+* created these LangGraph-SingleNode and LangGraph-MultiNodes projects using Grok chat.
+* Used OpenAI key for API access.

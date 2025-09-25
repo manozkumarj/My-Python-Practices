@@ -11,6 +11,9 @@ wheels/
 *.log
 *uv.lock
 /uv.lock
+bin/
+lib/
+*.env
 
 # Virtual environments
 .venv
